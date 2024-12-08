@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.test-section {
+  margin: 20px 0;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
